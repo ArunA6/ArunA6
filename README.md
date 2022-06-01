@@ -1,4 +1,4 @@
-## <p style="font-family: sans-serif"> Arun Atchuthananthan</p>
+## <p style="font-family: comic sans"> Arun Atchuthananthan</p>
 #### // Problem Solver, Software Developer, and Logic Enthusiast
 
 ### // Languages:
