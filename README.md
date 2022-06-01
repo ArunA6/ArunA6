@@ -1,5 +1,5 @@
-## Arun Atchuthananthan
-### // Problem Solver, Software Developer, and Logic Enthusiast
+## <p style="font-family: sans-serif"> Arun Atchuthananthan</p>
+#### // Problem Solver, Software Developer, and Logic Enthusiast
 
 ### // Languages:
 
