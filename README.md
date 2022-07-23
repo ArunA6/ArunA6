@@ -1,5 +1,5 @@
 ## Arun Atchuthananthan
-#### Problem Solver, Software Developer, and Logic Enthusiast
+#### Problem Solver, Software Developer, and Logician
 
 Currently in a co-op work term after having compeleted first year of Computer Science (BCS) at the University of Waterloo.
 
