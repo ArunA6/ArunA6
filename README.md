@@ -3,7 +3,9 @@
 
 Currently in a co-op work term after having compeleted first year of Computer Science (BCS) at the University of Waterloo.
 
-Growing software developer with experience in web, app, and game development as well as with machine learning and backend databases.
+Growing software developer with experience in web, app, and game development as well as with backend databases.
+
+Exploring machine learning and AR/VR technologies.
 
 [Portfolio Wesbite](https://aruna6.github.io/arun-a/)
 
