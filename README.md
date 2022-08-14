@@ -18,6 +18,6 @@ Exploring machine learning and AR/VR technologies.
 
 ### // Ongoing Projects:
 
-Spotify API - Song Lyric Application
+ -- Spotify API: Song Lyric Application
 
-Dynamic Photo Gallery Website
+ -- Dynamic Photo Gallery Website
