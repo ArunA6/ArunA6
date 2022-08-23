@@ -14,7 +14,7 @@ Exploring machine learning and AR/VR technologies.
 
 ### // Tools:
 
-<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"> <img src = "https://img.shields.io/badge/arduino-ffca28?style=for-the-badge&logo=arduino&logoColor=white">
+<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"> <img src = "https://img.shields.io/badge/arduino-1DCB6A?style=for-the-badge&logo=arduino&logoColor=white">
 
 ### // Ongoing Projects:
 
