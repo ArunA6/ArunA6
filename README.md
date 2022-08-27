@@ -21,3 +21,5 @@ Exploring machine learning and AR/VR technologies.
  -- Spotify API: Song Lyric Application
 
  -- Dynamic Photo Gallery Website
+ 
+ -- QR Code Generation Application
