@@ -1,11 +1,11 @@
 ## Arun Atchuthananthan
 #### Problem Solver, Software Developer, and Logician
 
-Currently in my second year pursuing a Bachelor's in Computer Science (BCS) at the University of Waterloo, seeking Fall 2023 internship.
+Currently in my third year pursuing a Bachelor's in Computer Science (BCS) with a Specialization in Artificial Intelligence at the University of Waterloo, seeking Summer 2024 internship.
 
-Growing software developer with experience in web, app, and game development as well as with backend databases.
+Growing software developer with professional and personal experiences across web, mobile, and game development.
 
-Exploring machine learning and AR/VR technologies.
+Currently exploring AI/ML through personal learnings and coursework.
 
 [Portfolio Wesbite](https://aruna6.github.io/arun-a/)
 
