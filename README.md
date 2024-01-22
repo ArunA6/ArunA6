@@ -20,8 +20,6 @@ Currently exploring AI/ML through personal learnings and coursework.
 
 ### // Ongoing Projects:
 
- -- Spotify API: Song Lyric Application
+ -- Spotify API: Song Lyric Application - Adding QR Codes and other socialized features
 
- -- Dynamic Photo Gallery Website
- 
- -- QR Code Generation Application
+ -- Dynamic Photo Gallery Website - Working to make more repsonsive with new JS frameworks + Add AI Image Generation
