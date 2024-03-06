@@ -5,7 +5,7 @@ Hey, I'm Arun and this is a catalogue of some of my explorations in software dev
 
 Currently, I'm in my third year pursuing a Bachelor's in Computer Science (BCS) with a Specialization in Artificial Intelligence at the University of Waterloo. 
 
-I'm 20 years old and have been coding for more than half of of my life. I began coding as a means to solve interesting problems, from programming robots to coding competitions. This passion has continued, but I now focus my skills on creating software that creates immediate positive impacts on users. Thus, the majority of my personal experiences relate to web and mobile application development. I am also actively exploring Artifical Intelligence, cloud computing, and financial technologies through academic and extracurricular projects.
+I'm 21 years old and have been coding for more than half of of my life. I began coding as a means to solve interesting problems, from programming robots to coding competitions. This passion has continued, but I now focus my skills on creating software that creates immediate positive impacts on users. Thus, the majority of my personal experiences relate to web and mobile application development. I am also actively exploring Artifical Intelligence, cloud computing, and financial technologies through academic and extracurricular projects.
 
 While focusing my academic work towards artifical intelligence and more rigorous computer science concepts, I am supplementing my learning through software internships at companies such as Infor, Innovapost, and AlertDriving. I continue to look for opportunities to apply and expand my skillset in a professional setting.
 
