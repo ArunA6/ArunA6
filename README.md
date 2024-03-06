@@ -1,4 +1,4 @@
-## Arun Atchuthananthan 🇨🇦 🇱🇰
+## Arun Atchuthananthan 🇨🇦 
 #### Student 📖, Software Developer 🧑‍💻, and Problem Solver 🧠
 
 Hey, I'm Arun and this is a catalogue of some of my explorations in software development! 
