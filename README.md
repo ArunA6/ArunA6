@@ -11,6 +11,8 @@ While focusing my academic work towards artifical intelligence and more rigorous
 
 <a href="https://aruna6.github.io/arun-a/" target="blank"><img align="center" alt="Portfolio" src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=slashdot&logoColor=white"/></a>
 <a href="https://aruna6.github.io/arun-a/resume.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/Resume-black.svg?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/arun-atchu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aatchuth@uwaterloo.ca?subject=Hey%20I'd%20like%20to%20connect!&body=Looking%20forward%20to%20getting%20your%20message!" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### // Languages:
 <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img 
@@ -30,9 +32,3 @@ src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoCol
 "https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white"> <img src = 
 "https://img.shields.io/badge/AWS-purple?style=for-the-badge&logo=amazon&logoColor=white"> <img src = 
 "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-### // Contact Me:
-
-  <a href="https://linkedin.com/in/arun-atchu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://aruna6.github.io/arun-a/" target="blank"><img align="center" alt="Portfolio" src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=slashdot&logoColor=white"/> </a>
-  <a href="mailto:aatchuth@uwaterloo.ca?subject=Hey%20I'd%20like%20to%20connect!&body=Looking%20forward%20to%20getting%20your%20message!" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
