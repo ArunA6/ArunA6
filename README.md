@@ -7,7 +7,7 @@ Currently building @ X !!! Prev @ RouteThis, Innovapost(acquired by Deloitte), I
 
 I'm 22 years old, entering the final year of my Computer Science undergrad with a Specialization in Artificial Intelligence at the University of Waterloo. 
 
-I have been coding for more than half of of my life. I began coding as a means to solve interesting problems, from programming robots to coding competitions. This passion has continued, but I now focus my skills on creating software that creates immediate positive impacts on users. I am also actively exploring Artifical Intelligence, human-computer interfaces, and financial tech through academic and extracurricular projects.
+I have been coding for more than half my life. I began coding as a means to solve interesting problems, from programming robots to coding competitions. This passion has continued, but I now focus my skills on creating software that creates immediate positive impacts on users. I am also actively exploring Artifical Intelligence, human-computer interfaces, and financial tech through academic and extracurricular projects.
 
 While focusing my academic work towards AI and more rigorous computer science concepts, I am supplementing my learning through software internships at innovative and high-impact companies. I continue to look for opportunities to apply and expand my skillset in a professional setting. 
 
