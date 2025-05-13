@@ -3,7 +3,7 @@
 
 Hey, I'm Arun and this is a catalogue of some of my explorations in software development! 
 
-Currently building @ X !!! Prev @ RouteThis, Innovapost(acquired by Deloitte), Infor, AlertDriving
+Building this summer at Amazon Web Services(AWS) !!! Prev @ X(Twitter), RouteThis, Innovapost(acquired by Deloitte), Infor, AlertDriving
 
 I'm 22 years old, entering the final year of my Computer Science undergrad with a Specialization in Artificial Intelligence at the University of Waterloo. 
 
