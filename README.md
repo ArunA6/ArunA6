@@ -4,13 +4,13 @@
 Hey, I'm Arun and this is a catalogue of some of my explorations in software development! 
 
 I've built software professtionally at 
-- (Coming Soon...) Meta
-- Amazon Web Services (AWS): Implementing new cross-region replication validation via Control Plane canaries on the DocumentDB Global Availabity team
-- X (previously Twitter): Developed new Unified Rich Timeline (URT) features including an upgraded Lists feature and added OCF onboarding functionality for the new X-lite app on Android team
-- RouteThis: Rebuilt core framework and user interface and also prototyped a new sensor-fusion calibration flow for the Certify application
-- Innovapost (acquired by Deloitte) - Spearheaded accessibility features, new QR code scanning, and resource reviews the Canada Post Android app
-- Infor: Developed a MVP for internal services monitoring within the Workforce Management (WFM) application on the Platform team
-- AlertDriving: Fixed and validated key data processing, email generation, and user permission functionality in the user-facing web applicaiton
+- **Meta** (Coming Soon...)
+- **Amazon Web Services (AWS)**: Implemented new cross-region replication validation via Control Plane canaries on the DocumentDB Global Availability team.
+- **X (formerly Twitter)**: Developed Unified Rich Timeline (URT) features including an upgraded Lists feature, and added OCF onboarding functionality for the new X-lite app on the Android team.
+- **RouteThis**: Rebuilt the core framework and user interface, and prototyped a new sensor-fusion calibration flow for the Certify app.
+- **Innovapost (acquired by Deloitte)**: Spearheaded accessibility features, QR code scanning, and resource reviews for the Canada Post Android app.
+- **Infor**: Developed an MVP for internal services monitoring within the Workforce Management (WFM) application on the Platform team.
+- **AlertDriving**: Fixed and validated key data processing, email generation, and user permission functionality in the user-facing web app.
 
 I'm 22 years old, entering the final year of my Computer Science undergrad with a Specialization in Artificial Intelligence at the University of Waterloo. 
 
