@@ -1,4 +1,4 @@
-## Arun Atchuthananthan 🇨🇦 
+## Arun Atchuthananthan
 #### Student 📖, Software Developer 🧑‍💻, and Problem Solver 🧠
 
 🔵 Hey, I'm Arun! I'm 22 years old, entering the final year of my Computer Science undergrad with a Specialization in Artificial Intelligence at the University of Waterloo. 🎓
