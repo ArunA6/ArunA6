@@ -1,24 +1,27 @@
 ## Arun Atchuthananthan 🇨🇦 
 #### Student 📖, Software Developer 🧑‍💻, and Problem Solver 🧠
 
-Hey, I'm Arun and this is a catalogue of some of my explorations in software development! 
+🔵 Hey, I'm Arun! I'm 22 years old, entering the final year of my Computer Science undergrad with a Specialization in Artificial Intelligence at the University of Waterloo. 🎓
 
-I've built software professtionally at 
-- **Meta** (Coming Soon...)
-- **Amazon Web Services (AWS)**: Implemented new cross-region replication validation via Control Plane canaries on the DocumentDB Global Availability team.
-- **X (formerly Twitter)**: Developed Unified Rich Timeline (URT) features including an upgraded Lists feature, and added OCF onboarding functionality for the new X-lite app on the Android team.
-- **RouteThis**: Rebuilt the core framework and user interface, and prototyped a new sensor-fusion calibration flow for the Certify app.
-- **Innovapost (acquired by Deloitte)**: Spearheaded accessibility features, QR code scanning, and resource reviews for the Canada Post Android app.
-- **Infor**: Developed an MVP for internal services monitoring within the Workforce Management (WFM) application on the Platform team.
-- **AlertDriving**: Fixed and validated key data processing, email generation, and user permission functionality in the user-facing web app.
+🔵 While focusing my academic work towards AI and more rigorous computer science concepts, I am supplementing my learning through software internships at innovative and high-impact companies including :
+- **Meta** 
+    - Coming Soon...
+- **Amazon Web Services (AWS)**
+    - Implemented new cross-region replication validation via Control Plane canaries on the DocumentDB Global Availability team.
+- **X (formerly Twitter)**
+    - Developed Unified Rich Timeline (URT) features including an upgraded Lists feature, and added OCF onboarding functionality for the new X-lite app on the Android team.
+- **RouteThis**
+    - Rebuilt the core framework and user interface, and prototyped a new sensor-fusion calibration flow for the Certify app.
+- **Innovapost (acquired by Deloitte)**
+    - Spearheaded accessibility features, QR code scanning, and resource reviews for the Canada Post Android app.
+- **Infor**
+    - Developed an MVP for internal services monitoring within the Workforce Management (WFM) application on the Platform team.
+- **AlertDriving**
+    - Fixed and validated key data processing, email generation, and user permission functionality in the user-facing web app.
+ 
+🔵 I am now looking for a full-time professional setting that both suits and challenges my skills and goals. 🚀
 
-I'm 22 years old, entering the final year of my Computer Science undergrad with a Specialization in Artificial Intelligence at the University of Waterloo. 
-
-I have been coding for more than half my life. I began coding as a means to solve interesting problems, from programming robots to coding competitions. This passion has continued, but I now focus my skills on creating software that creates immediate positive impacts on users. I am also actively exploring Artifical Intelligence, human-computer interfaces, and financial tech through academic and extracurricular projects.
-
-While focusing my academic work towards AI and more rigorous computer science concepts, I am supplementing my learning through software internships at innovative and high-impact companies. I continue to look for opportunities to apply and expand my skillset in a professional setting. 
-
-Please feel free to reach out to discuss future opportunities or even just to chat about tech!
+🔵 Feel free to reach out to discuss future opportunities or even just to chat about tech!
 
 <a href="https://aruna6.github.io/arun-a/" target="blank"><img align="center" alt="Portfolio" src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=slashdot&logoColor=white"/></a>
 <a href="https://aruna6.github.io/arun-a/resume.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/Resume-black.svg?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
