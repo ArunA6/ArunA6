@@ -3,11 +3,11 @@
 
 🔵 Hey, I'm Arun! I'm 22 years old, entering the final year of my Computer Science undergrad with a Specialization in Artificial Intelligence at the University of Waterloo. 🎓
 
-🔵 While focusing my academic work towards AI and more rigorous computer science concepts, I am supplementing my learning through software internships at innovative and high-impact companies including :
+🔵 While focusing my academic work towards AI and more rigorous computer science concepts, I am supplementing my learning through software internships at innovative and high-impact companies :
 - **Meta** 
-    - Coming Soon...
+    - Coming Fall 2025...
 - **Amazon Web Services (AWS)**
-    - Implemented new cross-region replication validation via Control Plane canaries on the DocumentDB Global Availability team.
+    - Implemented Control Plane canaries to validate DocumentDb's cross-region replication functionality as part of the DocumentDb Global Availability team.
 - **X (formerly Twitter)**
     - Developed Unified Rich Timeline (URT) features including an upgraded Lists feature, and added OCF onboarding functionality for the new X-lite app on the Android team.
 - **RouteThis**
