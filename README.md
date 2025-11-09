@@ -5,7 +5,7 @@
 
 🔵 While focusing my academic work towards AI and more rigorous computer science concepts, I am supplementing my learning through software internships at innovative and high-impact companies :
 - **Meta** 
-    - Coming Fall 2025...
+    - Building AI agents to assist developer ML workflows, provide asynchronous validation, and improve model resilience for FB Stories Rankings team.
 - **Amazon Web Services (AWS)**
     - Implemented Control Plane canaries to validate DocumentDb's cross-region replication functionality as part of the DocumentDb Global Availability team.
 - **X (formerly Twitter)**
