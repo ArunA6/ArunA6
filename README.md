@@ -1,11 +1,11 @@
 ## Arun Atchuthananthan
 #### Student 📖, Software Developer 🧑‍💻, and Problem Solver 🧠
 
-🔵 Hey, I'm Arun! I'm 22 years old, entering the final year of my Computer Science undergrad with a Specialization in Artificial Intelligence at the University of Waterloo. 🎓
+🔵 Hey, I'm Arun! I'm 22 years old, completing the final term of my Computer Science undergrad at the University of Waterloo. 🎓
 
 🔵 While focusing my academic work towards AI and more rigorous computer science concepts, I am supplementing my learning through software internships at innovative and high-impact companies :
 - **Meta** 
-    - Building AI agents to assist developer ML workflows, provide asynchronous validation, and improve model resilience for FB Stories Rankings team.
+    - Built AI agents and data pipelines to assist developer ML workflows, provide asynchronous validation, and improve model resilience for FB Stories Rankings team.
 - **Amazon Web Services (AWS)**
     - Implemented Control Plane canaries to validate DocumentDb's cross-region replication functionality as part of the DocumentDb Global Availability team.
 - **X (formerly Twitter)**
