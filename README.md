@@ -1,9 +1,9 @@
 ## Arun Atchuthananthan
 #### Student 📖, Software Developer 🧑‍💻, and Problem Solver 🧠
 
-🔵 Hey, I'm Arun! I'm 22 years old, completing the final term of my Computer Science undergrad at the University of Waterloo. 🎓
+🔵 Hey, I'm Arun! I'm 23 years old and just graduated from my Computer Science undergrad at the University of Waterloo. 🎓
 
-🔵 While focusing my academic work towards AI and more rigorous computer science concepts, I am supplementing my learning through software internships at innovative and high-impact companies :
+🔵 While focusing my academic work towards AI and more rigorous computer science concepts, I supplemented my learning through software internships at innovative and high-impact companies :
 - **Meta** 
     - Built AI agents and data pipelines to assist developer ML workflows, provide asynchronous validation, and improve model resilience for FB Stories Rankings team.
 - **Amazon Web Services (AWS)**
@@ -19,7 +19,7 @@
 - **AlertDriving**
     - Fixed and validated key data processing, email generation, and user permission functionality in the user-facing web app.
  
-🔵 I am now looking for a full-time professional setting that both suits and challenges my skills and goals. 🚀
+🔵 After a productive term, I am returning to Meta full-time to challenge my skills and goals alongside other taleneted engineers. 🚀
 
 🔵 Feel free to reach out to discuss future opportunities or even just to chat about tech!
 
